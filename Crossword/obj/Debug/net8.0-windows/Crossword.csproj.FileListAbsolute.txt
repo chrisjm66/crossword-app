@@ -1,0 +1,17 @@
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\bin\Debug\net8.0-windows\Crossword.exe
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\bin\Debug\net8.0-windows\Crossword.deps.json
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\bin\Debug\net8.0-windows\Crossword.runtimeconfig.json
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\bin\Debug\net8.0-windows\Crossword.dll
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\bin\Debug\net8.0-windows\Crossword.pdb
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\obj\Debug\net8.0-windows\Crossword.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\obj\Debug\net8.0-windows\Crossword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\obj\Debug\net8.0-windows\Crossword.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\obj\Debug\net8.0-windows\Crossword.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\obj\Debug\net8.0-windows\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\obj\Debug\net8.0-windows\Crossword.dll
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\obj\Debug\net8.0-windows\refint\Crossword.dll
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\obj\Debug\net8.0-windows\Crossword.pdb
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\obj\Debug\net8.0-windows\Crossword.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\obj\Debug\net8.0-windows\ref\Crossword.dll
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\obj\Debug\net8.0-windows\Crossword.GameForm.resources
+C:\Users\chris\OneDrive\Projects\Crossword\Crossword\obj\Debug\net8.0-windows\Crossword.MenuForm.resources
