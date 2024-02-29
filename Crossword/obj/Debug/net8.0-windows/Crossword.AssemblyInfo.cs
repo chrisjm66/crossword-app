@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Crossword")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75e6f249a0b0b5480eaec04dff8676f0460d2ee6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bb7c555f84a3a8260125de9e154fc4bae4d7030")]
 [assembly: System.Reflection.AssemblyProductAttribute("Crossword")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Crossword")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
